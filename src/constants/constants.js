@@ -5,7 +5,7 @@ export const projects = [
     image: '/images/souv.jpg',
     tags: ['MongoDB', 'Express', 'React', 'Node'],
     source: 'https://github.com/dabofonsa/ReseauSocialDePostDeSouvenir',
-    visit: 'https://souvenir.netlify.app',
+    visit: 'https://souvenir-post.netlify.app/',
     id: 0,
   },
   {
