@@ -46,7 +46,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>A propos de moi</SectionTitle>
       <SectionText>
-      Mon objectif est d'aider mon entreprise au développement de ses applications webs.
+      Mon objectif est d'aider mon entreprise au développement de ses applications web et mobile.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>

@@ -52,5 +52,5 @@ export const TimeLineData = [
   { year: 2018, text: "J'ai découvert JAVA, PHP, Javascript et j'ai appris la Programmation Orientée Objet", },
   { year: 2019, text: "J'ai réalisé des projets Desktop avec JAVA et la création de formulaire avec PHP et Javascript", },
   // { year: 2020, text: "", },
-  { year: '2021 à 2023', text: "J'ai commencé le développement web avec les frameworks de Java, Javascript et de PHP", },
+  { year: '2022 à 2025', text: "J'ai commencé le développement web avec les frameworks de Java, Javascript, Python, C#, et PHP", },
 ];
